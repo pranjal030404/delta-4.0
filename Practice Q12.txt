@@ -1,0 +1,10 @@
+Q1) Write the hexcode equivalent to rgb(225,225,225) and tell what color it is 
+Ans) Hexcode = #ffffff
+    color = white
+
+Q2) write the best possible rgb hexacode for following order
+Ans) hexacode for yellow = #ffff00
+    rgb for yellow (225,225,000)
+ 
+    hexacode for blue = #0000ff
+    rgb for blue is (000,000,225)
